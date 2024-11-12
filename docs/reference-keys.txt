@@ -1,0 +1,10 @@
+poner-en-marcha-la-aplicación
+partes-de-la-interfaz-de-la-aplicación
+selección-de-polígono
+inspección-del-mapa
+unión-de-polígonos
+ejemplo
+visualizar-cambios
+modificaciones
+separar-upms
+descarga-de-actualizaciones
